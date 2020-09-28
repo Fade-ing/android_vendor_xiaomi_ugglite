@@ -1800,6 +1800,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_s5k5e8_oef0501_ofilm_d6_weixin_preview_3a.so:vendor/lib/libchromatix_s5k5e8_oef0501_ofilm_d6_weixin_preview_3a.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_s5k5e8_oef0501_ofilm_d6_weixin_video.so:vendor/lib/libchromatix_s5k5e8_oef0501_ofilm_d6_weixin_video.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libflash_pmic.so:vendor/lib/libflash_pmic.so \
+    vendor/xiaomi/ugglite/proprietary/vendor/lib/libflash_gpio.so:vendor/lib/libflash_gpio.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libhwdaphal.so:vendor/lib/libhwdaphal.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libjpegdhw.so:vendor/lib/libjpegdhw.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libjpegdmahw.so:vendor/lib/libjpegdmahw.so \
